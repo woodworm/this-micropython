@@ -1,0 +1,4 @@
+THIS_MOD_DIR := $(USERMOD_DIR)
+
+# Add all C files to SRC_USERMOD
+SRC_USERMOD += $(THIS_MOD_DIR)/this.c
